@@ -3,7 +3,9 @@ Este repositório contém uma documentação prática sobre o comando sort no Li
 
 # 🐧 Guia para Iniciantes — Comandos de Ordenação e Filtragem no Linux
 
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="120"/>
+</p>
 
 > Aprenda os comandos essenciais para **ordenar, filtrar e manipular textos no Linux**.  
 > Este guia foi feito para quem está começando e quer dominar o terminal passo a passo. 🚀
